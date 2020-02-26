@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>{{page.title}} | SWApi Tutorial</title>
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <base href="./">
+</head>
+
+<body>
+  <section class="cover">
+    <div class="inside">
+      <div class="description">
+        <h1>SPARQL Endpoints and Web API <small>(SWApi)</small></h1>
+        <h2>Tutorial at <a href="https://iswc2020.semanticweb.org" rel="external" target="_blank">ISWC 2020</a></h2>
+      </div>
+    </div>
+    <nav class="mainNav">
+      <ul>
+        {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}
+        <li>
+          <a href="{{ p.url }}" {% if p.url==page.url %}class="active" {% endif %}>
+            {{ p.title }}
+          </a>
+        </li>
+        {% endif %} {% endfor %}
+      </ul>
+    </nav>
+
+  </section>
+
+  <div class="mainContent">
+    {{ content }}
+  </div>
+  <footer id="appFooter">
+    <div class="footerCont">
+      <p class="credit">
+        Photo credit:
+        <a href="https://www.flickr.com/photos/thomasclaveirole/463202335">Thomas Claveirole</a></p>
+      </p>
+      <div class="projLogoCont">
+        <a href="http://www.eurecom.fr/en" rel="external" target="_blank">
+          <img alt="EURECOM" src="img/eurecom.gif">
+        </a>
+        <a href="https://krr.cs.vu.nl/" rel="external" target="_blank">
+          <img alt="VU Amsterdam" src="img/vu_logo.png">
+        </a>
+      </div>
+
+    </div>
+  </footer>
+</body>
+
+</html>
