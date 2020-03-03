@@ -50,7 +50,7 @@
   bottom: 0;
   box-sizing: border-box;
   box-shadow: inset 0 9px 16px -12px #222;
-  padding: 0 3em 1em;
+  padding: 1em 3em;
   background: #d3d3d3;
 }
 #appFooter .descr a {
@@ -62,10 +62,6 @@
 #appFooter .footerCont {
   margin: auto;
   max-width: pageWidthLimit;
-}
-#appFooter .footerCont .credit {
-  font-size: 0.8em;
-  opacity: 0.9;
 }
 #appFooter .footerCont .projLogoCont {
   margin: 1em auto;
@@ -333,5 +329,22 @@ h3 + h4 {
 }
 h3 + h4 + p {
   margin: 0;
+}
+table {
+  margin: 1em 0;
+}
+table td {
+  padding: 0.3em 0.5em;
+}
+table tr:nth-child(even) {
+  background-color: #ececec;
+}
+table em {
+  color: #ff8f00;
+}
+.credit {
+  margin-top: 4em;
+  font-size: 0.8em;
+  opacity: 0.9;
 }
 /*# sourceMappingURL=styles.css.map */
