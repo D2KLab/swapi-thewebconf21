@@ -26,12 +26,12 @@ Pasquale Lisena is a postdoctoral researcher in the Data Science department at E
 
 ![Albert Meroño Peñuela](https://www.albertmeronyo.org/wp-content/uploads/2017/01/L_10a.jpg){: .profile-pic}
 ### Albert Meroño Peñuela
-#### Vrije Universiteit, Amsterdam, The Netherlands
-[mail](mailto:albert.merono@vu.nl) - [website](https://www.albertmeronyo.org/)
+#### King's College London, London, United Kingdom 
+[mail](mailto:albert.merono@kcl.ac.uk) - [website](https://www.albertmeronyo.org/)
 
 <p class="textblock" markdown="1">
 
-Albert Meroño Peñuela is a postdoctoral researcher at the Knowledge Representation & Reasoning group of the Vrije Universiteit Amsterdam, and works on Knowledge Graph construction, access, and use in digital humanities workflows, where he has built large (>10 billion triples) Knowledge Graphs for history and musicology. He is the lead engineer for structured data in [CLARIAH](https://clariah.nl/), a 32M EUR Dutch project for integrating Digital Humanities data, and serves in CLARIAH’s Technical Board as coordinator of the LOD Interest Group. His automated [Linked Data API construction methods](http://grlc.io) are today used in Elsevier, TNO, the eScience Center, and 3200 other users. He has been teaching BSc and MSc courses at the VU since 2013 on Knowledge Representation, AI, and Digital Humanities; and has supervised the BSc/MSc theses of 33 students.
+Albert Meroño Peñuela is a Lecturer in Computer Science at King's College London. Previously he was a postdoctoral researcher at the Knowledge Representation & Reasoning group of the Vrije Universiteit Amsterdam. He works on Knowledge Graph construction, access, and use in digital humanities workflows, where he has built large (>10 billion triples) Knowledge Graphs for history and musicology. He is the lead engineer for structured data in [CLARIAH](https://clariah.nl/), a 32M EUR Dutch project for integrating Digital Humanities data, and serves in CLARIAH’s Technical Board as coordinator of the LOD Interest Group. His automated [Linked Data API construction methods](http://grlc.io) are today used in Elsevier, TNO, the eScience Center, and 3200 other users. He has been teaching BSc and MSc courses at the VU since 2013 on Knowledge Representation, AI, and Digital Humanities; and has supervised the BSc/MSc theses of 33 students.
 </p>
 
 </section>
