@@ -25,7 +25,7 @@ The second part will cover the publication of Web API on top of SPARQL endpoints
 
 # Schedule
 
-This tutorial will take place on November 2nd, 2020 on Zoom (further details will be communicated soon).
+This tutorial will take place on November 2nd, 2020 on Zoom. The participants will receive the link from the conference organisers.
 
 The schedule is the following, in GMT (Greenwich) Timezone :
 
@@ -39,6 +39,9 @@ The schedule is the following, in GMT (Greenwich) Timezone :
 | 11.20 - 11.40 	| grlc _hands-on_                              	|
 | 11.40 - 11.50 	| SPARQL Transformer and grlc                	|
 | 11.50 - 12.00 	| Discussion and closing                     	|
+
+
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=Xzg1MmplaDFpNzBzNGNiOW42b29rYWI5azg5MTQ0YjlwOGwzMzBiOW04b3EzY2hpMzhjcGthaDFoNjQgajFwcWdpcm5hcWthaDlocXBjcWVxbDJscTBAZw&amp;tmsrc=j1pqgirnaqkah9hqpcqeql2lq0%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_it.gif"></a>
 
 # Intended Audience
 
