@@ -14,4 +14,7 @@ navigation_weight: 2
 
 ### Part 2: Web API for RDF: grlc
 
-Coming soon
+
+<br/>
+<iframe src="https://docs.google.com/presentation/d/12JzTCxP4RAhJ6YkEK1us-LWjXj5f0qTjeGNkNL1NYJc/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<br/>
