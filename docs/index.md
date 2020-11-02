@@ -5,6 +5,8 @@ layout: default
 navigation_weight: 1
 ---
 
+The videos of this tutorial are available on [YouTube](https://www.youtube.com/playlist?list=PLSsFTlM4Tf905v1-mSsm1elWXOjDcANYP).
+
 # Abstract
 The success of Semantic Web technology has boosted the publication of Knowledge Graphs, and several technologies to access them have become available covering different spots in the spectrum of expressivity: from the highly expressive SPARQL to the controlled access of Linked Data APIs, with GraphQL in between. Many of these technologies have reached industry-grade maturity. Finding the trade-offs between them is often difficult in the daily work of developers, interested in quick API deployment and easy data ingestion. In this tutorial, we will cover this in-between technology space, with the main goal of providing strategies and tools for publishing Web APIs that ensure the easy consumption of data coming from SPARQL endpoints. Together with an overview of state-of-art technologies, the tutorial focuses on two novel technologies: [SPARQL Transformer](https://github.com/D2KLab/sparql-transformer), which allows to get a more compact JSON structure for SPARQL results, decreasing the effort required by developers in interfacing JavaScript and Python applications; and [grlc](http://grlc.io/), an automatic way of building APIs on top of SPARQL endpoints by sharing queries on collaborative platforms. Moreover, we will present recent developments to combine the two, offering a complete resource for developers and researchers. Hands-on sessions will be proposed to internalize those concepts with practice.
 
