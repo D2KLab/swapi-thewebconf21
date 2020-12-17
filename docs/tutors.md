@@ -17,7 +17,7 @@ navigation_weight: 2
 
 <p class="textblock" markdown="1">
 
-Pasquale Lisena is a postdoctoral researcher in the Data Science department at EURECOM, working on knowledge modeling and information extraction in the domain of digital humanities. He obtained in 2019 a PhD in Computer Science from Sorbonne University of Paris, with a thesis on music representation and recommendation under the supervision of Raphaël Troncy. He was part of the [DOREMUS project](http://www.doremus.org), actively contributing in realising the largest knowledge graph ever about classical music. His experiences include two tutorials in conferences of the field ([K-CAP 2017](https://doremus-anr.github.io/kcap17_tutorial/), [ESWC 2018](https://doremus-anr.github.io/eswc18_tutorial/)), assistant teaching in the Web Interaction course at EURECOM (since 2017) and lecturer in the "Aalto BootCamp 2019" at EURECOM.
+Pasquale Lisena is a postdoctoral researcher in the Data Science department at EURECOM, working on knowledge modeling and information extraction in the domain of digital humanities. He obtained in 2019 a PhD in Computer Science from Sorbonne University of Paris, with a thesis on music representation and recommendation. He was part of the [DOREMUS project](http://www.doremus.org), actively contributing in realising the largest knowledge graph ever about classical music. His experiences include two tutorials in conferences of the field ([K-CAP 2017](https://doremus-anr.github.io/kcap17_tutorial/), [ESWC 2018](https://doremus-anr.github.io/eswc18_tutorial/), ISWC 2020), assistant teaching in the Web Interaction course at EURECOM (since 2017) and lecturer in the "Aalto BootCamp 2019" at EURECOM.
 </p>
 
 </section>
@@ -26,7 +26,7 @@ Pasquale Lisena is a postdoctoral researcher in the Data Science department at E
 
 ![Albert Meroño Peñuela](https://www.albertmeronyo.org/wp-content/uploads/2017/01/L_10a.jpg){: .profile-pic}
 ### Albert Meroño Peñuela
-#### King's College London, London, United Kingdom 
+#### King's College London, London, United Kingdom
 [mail](mailto:albert.merono@kcl.ac.uk) - [website](https://www.albertmeronyo.org/)
 
 <p class="textblock" markdown="1">
