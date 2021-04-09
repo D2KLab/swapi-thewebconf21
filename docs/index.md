@@ -23,23 +23,24 @@ This half-day tutorial will be composed of two parts, consisting each of slides 
 1. The first part will focus on data reshaping and merging. After summarising the main issues related to RDF data consumption by developers, we will introduce different solutions coming from the literature, such as [RDFJS](https://rdf.js.org/data-model-spec/),  [LDflex](https://github.com/LDflex/LDflex), GraphQL-based strategies and others. We will then explain the fundamentals of [SPARQL Transformer](https://github.com/D2KLab/sparql-transformer) and present in-depth details about its querying and templating features, its parsing capabilities, and its merging strategy, giving to the audience a complete picture of the library. Example of usage in JavaScript and Python will be shown. Some hands-on exercises will be proposed in order to make the public play with the application, making use of the SPARQL Transformer playground.
 2. The second part will cover the publication of Web API on top of SPARQL endpoints. Different specification – e.g. [smartAPI](https://smart-api.info/), [Linked Data API](https://github.com/UKGovLD/linked-data-api) specification, [OpenAPI](https://www.openapis.org/) – and services – e.g. [BASIL](https://github.com/the-open-university/basil) – for describing RESTful APIs will be introduced to the audience . Then, we will show the [grlc](grlc.io) application and explain the different part of the framework: the GitHub repository, the self-generated UI and the automatically exposed API. The public will then publish their own API in the second hands-on session. Finally, we will introduce the integration of SPARQL Transformer in grlc and we will conclude the tutorial with a summary of the covered topics.
 
-<!-- # Schedule
+# Schedule
 
-This tutorial will take place on November 2nd, 2020 on Zoom. The participants will receive the link from the conference organisers.
+This tutorial will take place on April 12th, 2021.
+The participants will receive the link from the conference organisers.
 
-The schedule is the following, in GMT (Greenwich) Timezone :
+The schedule is the following, in CEST (Ljubljana) Timezone :
 
-| 9.00 - 9.10  	  | Introduction                               	|
-| 9.10 - 9.30   	| Overview: libraries for accessing RDF data 	|
-| 9.30 - 10.00  	| SPARQL Transformer                         	|
-| 10.00 - 10.20 	| SPARQL Transformer _hands-on_                	|
-| **10.20 - 10.40** 	| **break**                               	|
-| 10.40 - 11.00 	| Overview: Web API for RDF                  	|
-| 11.00 - 11.20 	| grlc                                       	|
-| 11.20 - 11.40 	| grlc _hands-on_                              	|
-| 11.40 - 11.50 	| SPARQL Transformer and grlc                	|
-| 11.50 - 12.00 	| Discussion and closing                     	|
- -->
+| 14.00 - 14.10  	  | Introduction                               	|
+| 14.10 - 14.30   	| Overview: libraries for accessing RDF data 	|
+| 14.30 - 15.00  	| SPARQL Transformer                         	|
+| 15.00 - 15.20 	| SPARQL Transformer _hands-on_                	|
+| **10.20 - 15.50** 	| **break**                               	|
+| 15.50 - 16.10 	| Overview: Web API for RDF                  	|
+| 16.10 - 16.30 	| grlc                                       	|
+| 16.30 - 16.50 	| grlc _hands-on_                              	|
+| 16.50 - 16.55 	| SPARQL Transformer and grlc                	|
+| 16.55 - 17.00 	| Discussion and closing                     	|
+
 
 # Intended Audience
 
