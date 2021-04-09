@@ -34,7 +34,7 @@ The schedule is the following, in CEST (Ljubljana) Timezone :
 | 14.10 - 14.30   	| Overview: libraries for accessing RDF data 	|
 | 14.30 - 15.00  	| SPARQL Transformer                         	|
 | 15.00 - 15.20 	| SPARQL Transformer _hands-on_                	|
-| **10.20 - 15.50** 	| **break**                               	|
+| **15.20 - 15.50** 	| **break**                               	|
 | 15.50 - 16.10 	| Overview: Web API for RDF                  	|
 | 16.10 - 16.30 	| grlc                                       	|
 | 16.30 - 16.50 	| grlc _hands-on_                              	|
